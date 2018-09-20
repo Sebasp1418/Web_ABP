@@ -1,5 +1,6 @@
 # Web_ABP
 Sistema de gestion de asesorias
+
 -En la Carpetas produccion estan todos los elementos de la plantilla gentelella
 -las carpetas buil,css,js y Vedors son de la plantilla gentelella
 - En las acroetas views estan todos los frm del proyecto 
