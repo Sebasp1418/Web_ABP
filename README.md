@@ -8,6 +8,8 @@ Sistema de gestion de asesorias
 - la carpeta Rnegocios, se encuentras las reglas de negocio  de cada entidad 
 - la carpeta includes se encuentra el head el fooder , la conexion y los elementos necesarios suplementarios para el funcionamiento 
 - la carpeta images se guardan las imagenes referentes al proyecto 
+- la carpeta bdasesoria contiene informacion de la base de datos 
+
 
 Sebastian perez rios y jhon bayron giraldo 2018
 
